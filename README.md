@@ -31,3 +31,14 @@ na turma referente as principais dificuldades.
   <li>Fui responsável por consertar os bugs da quebra de layout e reestruturação dos arquivos CSS;</li>
   <li>Responsável por elaborar toda a apresentação do projeto e o pitch no canvas;</li>
 </ul>
+
+
+<h3>Magnus Bittencourt</h3>
+<ul>
+  <li>Responsável pela criação da parte de cadastro;</li>
+  <li>Criei todos os input, buttons e cores;</li>
+  <li>Fui responsável por consertar os bugs da quebra de layout e reestruturação de alguns arquivos CSS;</li>
+  <li>Contribui na elaboração de toda a apresentação do projeto e o pitch no canvas;</li>
+</ul>
+
+![Projeto Preview!](https://cdn.discordapp.com/attachments/831650454832152607/1028832884464828426/unknown.png)
