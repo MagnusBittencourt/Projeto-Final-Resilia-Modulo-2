@@ -42,3 +42,9 @@ na turma referente as principais dificuldades.
 </ul>
 
 ![Projeto Preview!](https://cdn.discordapp.com/attachments/831650454832152607/1028832884464828426/unknown.png)
+
+## Meus Aprendizados:
+
+- CSS - Reforçando flexbox
+- Bootstrap (versão 5.1.3)
+- Versionamento de código c/ GIT e GitHub (realização de PR’s, Merges, Forks)
